@@ -480,6 +480,7 @@ API | Description | Auth | HTTPS | CORS |
 ### Data Validation
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
+| [DataScreenIQ](https://datascreeniq.com) | Data quality firewall API for real-time schema drift, null spikes, type mismatches, and anomaly detection. Free tier available. | No | Yes | Unknown |
 | [Lob.com](https://lob.com/) | US Address Verification | `apiKey` | Yes | Unknown |
 | [Postman Echo](https://www.postman-echo.com) | Test api server to receive and return value from HTTP method | No | Yes | Unknown |
 | [PurgoMalum](http://www.purgomalum.com) | Content validator against profanity & obscenity | No | No | Unknown |
